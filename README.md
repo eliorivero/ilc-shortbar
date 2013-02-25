@@ -16,4 +16,5 @@ Usage
 1. Go to Appearance > Widgets and drag some widgets to one of the sidebars called by shortcodes
 2. In posts or pages, use the corresponding shortcode, for example [shortbar2]
 3. In PHP templates, use
+
     <?php echo do_shortcode('[shortbar2]'); ?>
