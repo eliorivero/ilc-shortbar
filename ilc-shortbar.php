@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: ILC Shortbar
- * Plugin URI: http://ilovecolors.com.ar/
+ * Plugin URI: https://startfunction.com
  * Description: Creates creates multiple sidebars that can be called using a related shortcode.
  * Author: Elio Rivero
- * Author URI: http://ilovecolors.com.ar
+ * Author URI: https://startfunction.com
  * Version: 1.0.0
  */
 
