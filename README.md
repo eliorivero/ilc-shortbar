@@ -18,3 +18,8 @@ Usage
 3. In PHP templates, use
 
     <?php echo do_shortcode('[shortbar2]'); ?>
+    
+More info
+---------
+
+Check the release post https://startfunction.com/sidebar-widgets-shortcode-wordpress/
